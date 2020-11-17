@@ -1,3 +1,3 @@
 # LightControl
 
-ESP8266 controlled by web
+ESP8266 controlled by web interface
